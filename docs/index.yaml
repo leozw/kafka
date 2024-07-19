@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kafka:
+  - apiVersion: v2
+    appVersion: 1.19.0
+    created: "2024-07-18T22:36:11.91502683-03:00"
+    description: A Helm chart for Kubernetes
+    digest: d4afc39a6df59f4160da09c9cd9baf98d4d7e84e77d8df18acf2a85fb2eeb790
+    name: kafka
+    type: application
+    urls:
+    - kafka-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-18T22:36:11.913985771-03:00"
